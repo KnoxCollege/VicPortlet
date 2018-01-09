@@ -15,8 +15,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SandPortlet</RootNamespace>
-    <AssemblyName>SandPortlet</AssemblyName>
+    <RootNamespace>VicPortlet</RootNamespace>
+    <AssemblyName>VicPortlet</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
@@ -83,7 +83,7 @@
     <Compile Include="Default_View.ascx.designer.cs">
       <DependentUpon>Default_View.ascx</DependentUpon>
     </Compile>
-    <Compile Include="Sand.cs" />
+    <Compile Include="Vic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

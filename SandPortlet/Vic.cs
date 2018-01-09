@@ -5,9 +5,9 @@ using System.Text;
 using System.Web;
 using Jenzabar.Portal.Framework.Web.UI;
 
-namespace SandPortlet
+namespace VicPortlet
 {
-    public class Sand : PortletBase
+    public class Vic : PortletBase
     {
         protected override PortletViewBase GetCurrentScreen()
         {
@@ -16,7 +16,7 @@ namespace SandPortlet
             switch (this.CurrentPortletScreenName)
             {
                 default:
-                    screen = this.LoadPortletView("ICS/SandPortlet/Default_View.ascx");
+                    screen = this.LoadPortletView("ICS/VicPortlet/Default_View.ascx");
                     break;
             }
 

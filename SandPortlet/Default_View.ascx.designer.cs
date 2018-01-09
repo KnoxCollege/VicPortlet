@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SandPortlet {
+namespace VicPortlet {
     
     
     public partial class Default_View {
