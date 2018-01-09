@@ -9,7 +9,7 @@ using Jenzabar.Portal.Framework.Web.UI;
 using Jenzabar.Portal.Framework;
 
 
-namespace VicPortlet
+namespace SandPortlet
 {
     public partial class Default_View : PortletViewBase
     {
