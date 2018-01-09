@@ -54,6 +54,22 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Jenzabar.Common, Version=1.0.6250.20245, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>\\jicstest\e$\Program Files\Jenzabar\ICS.NET\Portal\bin\Jenzabar.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Jenzabar.JX.ADV.WebServices, Version=5.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>\\jicstest\e$\Program Files\Jenzabar\ICS.NET\Portal\bin\Jenzabar.JX.ADV.WebServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Jenzabar.JX.Common.WebServices, Version=3.0.0.4, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>\\jicstest\e$\Program Files\Jenzabar\ICS.NET\Portal\bin\Jenzabar.JX.Common.WebServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Jenzabar.JX.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>\\jicstest\e$\Program Files\Jenzabar\ICS.NET\Portal\bin\Jenzabar.JX.Core.dll</HintPath>
+    </Reference>
     <Reference Include="Jenzabar.Portal.Framework, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>\\jicstest\e$\Program Files\Jenzabar\ICS.NET\Portal\bin\Jenzabar.Portal.Framework.dll</HintPath>
@@ -61,6 +77,10 @@
     <Reference Include="Jenzabar.Portal.Framework.Web, Version=5.0.6250.20354, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>\\jicstest\e$\Program Files\Jenzabar\ICS.NET\Portal\bin\Jenzabar.Portal.Framework.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap, Version=2.6.1.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>\\jicstest\e$\Program Files\Jenzabar\ICS.NET\Portal\bin\StructureMap.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data.DataSetExtensions" />
